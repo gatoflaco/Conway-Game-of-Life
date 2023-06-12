@@ -1,2 +1,3 @@
 # Conway-Game-of-Life
-Actually just doing this to mess around with some debugger stuff lol
+Based on a popular beginner's problem.
+The purpose of this repository is for testing some debugging tools.
